@@ -1,0 +1,14 @@
+# Site settings
+title: Churn ML
+email: info@cmlteam.com
+description: > # this means to ignore newlines until "baseurl:"
+  Churn ML - Tool powered by Machine Learning to predict and prevent Churn in mobile and online banking
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://churn.cmlteam.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+cml_site: "https://www.cmlteam.com"
+
+# Build settings
+markdown: kramdown
