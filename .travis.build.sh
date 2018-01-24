@@ -3,4 +3,4 @@
 set -v
 
 bundle exec jekyll build
-rm _site/*.sh _site/*.enc
+rm -f _site/*.sh _site/*.enc
